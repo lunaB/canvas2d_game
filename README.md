@@ -1,11 +1,11 @@
-# canvas2d_game
-study project
-luna20617@gmail.com
+# Canvas 2D Game
 
-Incheon - Technical Training Institute
-9-26 ~ 10-1
-------------------------------------------
-자바스크립트 연습용으로 만들어서 코드가 많이 지저분합니다.<br>
+Incheon - Technical Training Institute 9-26 ~ 10-1 <br>
+인천 웹개발 직체교육가서 쉬는시간에 틈틈히 만들었습니다.
+
+
+## 게임설명
+처음 만드는 자바스크립트 프로젝트라서 많이 미숙합니다.<br>
 2차원 축에서 시간이지날수록 강하며 두꺼운 광선이 몇초 간격으로 나옵니다.<br>
 광선은 강한 도트데미지를 입힙니다.<br>
 적들이 여기저기에서 몇초마다 출연하며 최단거리로 캐릭터를 따라옵니다.<br>
